@@ -109,10 +109,10 @@ public class InicioAdmin extends javax.swing.JFrame {
                             .addComponent(jButton7)
                             .addComponent(jButton9))))
                 .addContainerGap(18, Short.MAX_VALUE))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(185, 185, 185)
                 .addComponent(jButton10)
-                .addGap(183, 183, 183))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -134,9 +134,9 @@ public class InicioAdmin extends javax.swing.JFrame {
                     .addComponent(jButton6)
                     .addComponent(jButton3)
                     .addComponent(jButton9))
-                .addGap(40, 40, 40)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 56, Short.MAX_VALUE)
                 .addComponent(jButton10)
-                .addContainerGap(69, Short.MAX_VALUE))
+                .addGap(53, 53, 53))
         );
 
         pack();
