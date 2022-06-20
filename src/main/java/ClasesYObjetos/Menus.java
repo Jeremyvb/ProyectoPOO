@@ -1,6 +1,6 @@
 package ClasesYObjetos;
 
-public class Menu {
+public class Menus {
     
     public void menuPrincipal(){
         System.out.println("-------------------------------------");

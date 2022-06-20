@@ -9,13 +9,12 @@ public class Main {
     public static Persona usuarios = new Persona();
     public static Dieta dieta = new Dieta();
     public static Alimento alimentos = new Alimento();
+   
 
-    public static void main(String[] args) throws ParseException {
+    /*public static void main(String[] args) throws ParseException {
        
         int option;
-        Menu menu = new Menu();
-        
-        System.out.println("Hola");
+        Menus menu = new Menus();
         
         Persona admin = new Persona("Jeremy","Villalobos","20.371.230-8","jeremy.villalobos.b@gmail.com","123","admin");
         usuarios.personas.add(admin);
@@ -154,5 +153,6 @@ public class Main {
             
         } while (option != 3);  
     }
+*/
 }
     
